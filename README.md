@@ -28,6 +28,6 @@ This project showcases the potential of machine learning in predicting diabetes 
 - pandas
 - Jupyter Notebook
 
-Acknowledgements
+# Acknowledgements
 We would like to express our gratitude to the contributors of the dataset used in this project. Their efforts in data collection and sharing enable researchers and data scientists to make meaningful contributions to the field of healthcare.
 Please feel free to reach out with any questions or feedback.
